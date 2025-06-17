@@ -37,6 +37,9 @@ A full-stack real-time chat application built with **React**, **Node.js**, **Exp
 
 ## 📷 Screenshots
 
+### 💬 Chat Interface
+
+![Chat UI](./docs/chat-ui.png)
 
 
 ---

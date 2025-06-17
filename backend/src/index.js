@@ -8,6 +8,7 @@ import bodyParser from 'body-parser';
 import express from "express";
 
 import cors from "cors";
+import path from "path";
 
 dotenv.config();
 const PORT = process.env.PORT;
